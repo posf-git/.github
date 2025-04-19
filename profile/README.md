@@ -11,7 +11,7 @@ The Pyro Open Source Foundation provides **free infrastructure hosting** to empo
 ## 🚀 How to Apply
 
 1. **Check eligibility**: Your project should be open source, actively maintained, and broadly used.  
-2. **Submit an application**: [Apply for POSF hosting](https://pyro.host/posf)  
+2. **Submit an application**: [Apply for POSF hosting](https://github.com/posf-git/apply/issues/new?template=posf_hosting_application.yml)
 3. **Get approved**: We’ll notify you if you’ve been granted a slot—credit is appreciated but never required.  
 
 ## 💖 Support us
