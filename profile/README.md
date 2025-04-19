@@ -16,4 +16,4 @@ The Pyro Open Source Foundation provides **free infrastructure hosting** to empo
 
 ## 💖 Support us
 
-If you find our services helpful, consider supporting us on [Liberapay](https://liberapay.com/pyro) or [GitHub Sponsors](https://github.com/psof-git) to help us keep the lights on. Your contributions will go directly to maintaining and improving our infrastructure for the open-source community.
+If you find our services helpful, consider supporting us on [Liberapay](https://liberapay.com/pyro) or [GitHub Sponsors](https://github.com/posf-git/sponsors) to help us keep the lights on. Your contributions will go directly to maintaining and improving our infrastructure for the open-source community.
